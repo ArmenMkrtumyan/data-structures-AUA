@@ -1,1 +1,1 @@
-# data-structures-AUA
+# data-structures-&-algorithms-AUA
