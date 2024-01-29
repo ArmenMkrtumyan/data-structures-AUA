@@ -1,3 +1,5 @@
 # data-structures-algorithms-AUA
 
-Full course on data structures and algorithms covering Linked lists, HasMaps, HasSets, Trees
+My codes on the full data structures and algorithms course, covering Linked lists, HasMaps, HasSets, Trees
+
+
